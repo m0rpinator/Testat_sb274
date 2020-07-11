@@ -1,76 +1,76 @@
 id,name,type,sex,age,party,representation,position,state
+50H,50Hertz Transmission,1,,,,,,BE
+Airbus,Airbus SE,1,,,,,,
+Alba,Alba Group,1,,,,,,BE
+Allmendinger,Jutta Allmendinger,0,2,5,2,6,2,BE
+Bahn,Deutsche Bahn AG,1,,,,,,
+BDEW,Bundesverbands der Energie- und Wasserwirtschaft,1,,,,,,
+BDI,Bundesverbands der Deutschen Industrie ,1,,,,,,
+BDV,Deutschen Arbeitgeberverbände,1,,,,,,
+BfA,Bundesagentur für Arbeit,1,,,,,,
+BfB,Buirer fuer Buir,1,,,,,,NW
+BUND,Bund für Umwelt und Naturschutz Deutschland,1,,,,,,
+CDU,CDU,1,,,,,,
+CSU,CSU,,,,,,,
+DBU,Deutsche Bundesstiftung Umwelt,1,,,,,,
+DEK,Datenethikkommission,1,,,,,,
+DgeV,Deutsche Gesellschaft eV,1,,,,,,
+DIHT,Deutscher Industrie- und Handelskammertag,1,,,,,,
+DNR,Dachverband Deutscher Naturschutzring,1,,,,,,
+DRF,Deutsch Russisches Forum eV,1,,,,,,
+DRK,Deutsches Rotes Kreuz,1,,,,,,
+EnBW,EnBW,1,,,,,,
+FDP,FDP,1,,,,,,
+Frauenhofer,Frauenhofer Gesellschaft,1,,,,,,
+Greenpeace,Greenpeace,1,,,,,,
 Grothus,Antje Grothus,0,2,4,,5,2,NW
+Grüne,Bündnis 90 Die Grünen,1,,,,,,
 Hasselfeldt,Gerda Hasselfeldt,0,2,6,1,,2,BY
 Herntier,Christine Herntier,0,2,5,,5,2,BB
+HTW,Hochschule für Technik und Wirtschaft,1,,,,,,
+HumboldUni,Berliner Humboldt Universität,1,,,,,,
+IAB,Institut für Arbeitsmarkt- und Berufsforschung,1,,,,,,
+IPCC,Weltklimarat,1,,,,,,
+KAD,Klima-Allianz Deutschland,1,,,,,,BE
+Kaiser,Martin Kaiser,0,1,4,,4,2,
 Kampeter,Steffen Kampeter,0,1,4,1,2,2,NW
 Kapferer,Stefan Kapferer,0,1,4,5,2,2,BW
 Kempf,Dieter Kempf,0,1,5,,2,2,BY
+Kohlekommission,"Kommission für Wachstum, Strukturwandel und Beschäftigung",1,,,,,,
 Kreuzberg,Michael Kreuzberg,0,1,5,1,5,2,NW
+Laemmel,Andreas Lämmel,0,1,5,1,1,3,SA
+LEENRW,Landesverband Erneuerbare Energien NRW ,1,,,,,,
+Lenz,Andreas Lenz,0,1,2,1,1,3,BY
+Matthes,Felix Matthes,0,1,4,,6,2,
+MIBRAG,Braunkohleunternehmen MIBRAG,1,,,,,,
+Miersch,Matthias Miersch,0,1,4,2,1,3,NI
 Nemat,Claudia Nemat,0,2,4,,2,2,NW
+Niebert,Kai Niebert,0,1,2,,4,2,
+Niebuhr,Annekathrin Niebuhr,0,2,4,,6,2,
+Oeko,Oeko Institut,1,,,,,,
+PKM,Parlamentskreises Mittelstand,1,,,,,,
 Platzeck,Matthias Platzeck,0,1,5,2,1,1,BB
 Pofalla,Ronald Pofalla,0,1,5,1,2,1,NW
+PotsdamKlima,Potsdam Institut für Klimafolgenforschung,1,,,,,,BB
 Praetorius,Barbara Praetorius,0,2,4,,6,1,BE
 Priggen,Reiner Priggen,0,1,5,3,5,2,NW
-Reiche,Katherina Reiche,0,2,3,1,2,2,BB
-Röstel,Gunda Röstel,0,2,4,3,2,2,SA
-Schweitzer,Eric Schweitzer,0,1,4,5,2,2,
-Tillich,Stanislaw Tillich,0,1,6,1,2,1,SN
-Wodtke,Hannelore Wodtke,0,2,,1,5,2,BB
-Kaiser,Martin Kaiser,0,1,4,,4,2,
-Weiger,Hubert Weiger,0,1,6,,4,2,BY
-Niebert,Kai Niebert,0,1,2,,4,2,
-Allmendinger,Jutta Allmendinger,0,2,5,2,6,2,BE
-Matthes,Felix Matthes,0,1,4,,6,2,
-Schellnhuber,Hans Joachim Schellnhuber,0,1,5,,6,2,BY
-Niebuhr,Annekathrin Niebuhr,0,2,4,,6,2,
-Wehrspohn,Ralf Wehrspohn,0,1,3,,6,2,
-Lämmel,Andreas Lämmel,0,1,5,1,1,3,SA
-Lenz,Andreas Lenz,0,1,2,1,1,3,BY
-Miersch,Matthias Miersch,0,1,4,2,1,3,NI
-Kohlekommission,"Kommission für Wachstum, Strukturwandel und Beschäftigung",1,,,,,,
-SPD,SPD,1,,,,,,
-DRF,Deutsch Russisches Forum eV,1,,,,,,
-CDU,CDU,1,,,,,,
-Bahn,Deutsche Bahn AG,1,,,,,,
-HTW,Hochschule für Technik und Wirtschaft,1,,,,,,
-MIBRAG,Braunkohleunternehmen MIBRAG,1,,,,,,
-DRK,Deutsches Rotes Kreuz,1,,,,,,
-BDV,Deutschen Arbeitgeberverbände,1,,,,,,
-BfA,Bundesagentur für Arbeit,1,,,,,,
-BDEW,Bundesverbands der Energie- und Wasserwirtschaft,1,,,,,,
-FDP,FDP,1,,,,,,
-50H,50Hertz Transmission,1,,,,,,BE
-BDI,Bundesverbands der Deutschen Industrie ,1,,,,,,
-DEK,Datenethikkommission,1,,,,,,
-Telekom,Deutsche Telekom,1,,,,,,
-Airbus,Airbus SE,1,,,,,,
-VKU,Verband Kommunaler Unternehmen,1,,,,,,
-Westenergie,Westenergie GmbH,1,,,,,,
-EnBW,EnBW,1,,,,,,
-SD,Stadtentwässerung Dresden ,1,,,,,,
-Grüne,Bündnis 90 Die Grünen,1,,,,,,
-DIHT,Deutscher Industrie- und Handelskammertag,1,,,,,,
-Alba,Alba Group,1,,,,,,BE
-SpringerFStftng,Friede Springer Stiftung,1,,,,,,
-ZeissStftng,Carl Zeiss Stiftung,1,,,,,,
-BfB,Buirer fuer Buir,1,,,,,,NW
-KAD,Klima-Allianz Deutschland,1,,,,,,BE
-Welzow,Allianz für Welzow,1,,,,,,
-LEENRW,Landesverband Erneuerbare Energien NRW ,1,,,,,,
-Greenpeace,Greenpeace,1,,,,,,
-BUND,Bund für Umwelt und Naturschutz Deutschland,1,,,,,,
 RatNachhaltig,Rat für Nachhaltige Entwicklung der Bundesregierung,1,,,,,,
-DNR,Dachverband Deutscher Naturschutzring,1,,,,,,
-DBU,Deutsche Bundesstiftung Umwelt,1,,,,,,
-WZB,Wissenschaftszentrum Berlin für Sozialforschung,1,,,,,,
-HumboldUni,Berliner Humboldt Universität,1,,,,,,
-Oeko,Oeko Institut,1,,,,,,
-PotsdamKlima,Potsdam Institut für Klimafolgenforschung,1,,,,,,BB
-IPCC,Weltklimarat,1,,,,,,
+Reiche,Katherina Reiche,0,2,3,1,2,2,BB
+Roestel,Gunda Röstel,0,2,4,3,2,2,SA
+Schellnhuber,Hans Joachim Schellnhuber,0,1,5,,6,2,BY
+Schweitzer,Eric Schweitzer,0,1,4,5,2,2,
+SD,Stadtentwässerung Dresden ,1,,,,,,
+SPD,SPD,1,,,,,,
+SpringerFStftng,Friede Springer Stiftung,1,,,,,,
+Telekom,Deutsche Telekom,1,,,,,,
+Tillich,Stanislaw Tillich,0,1,6,1,2,1,SN
 UniKiel,Uni Kiel,1,,,,,,
-IAB,Institut für Arbeitsmarkt- und Berufsforschung,1,,,,,,
-Frauenhofer,Frauenhofer Gesellschaft,1,,,,,,
-PKM,Parlamentskreises Mittelstand,1,,,,,,
-DgeV,Deutsche Gesellschaft eV,1,,,,,,
+VKU,Verband Kommunaler Unternehmen,1,,,,,,
+Wehrspohn,Ralf Wehrspohn,0,1,3,,6,2,
+Weiger,Hubert Weiger,0,1,6,,4,2,BY
+Welzow,Allianz für Welzow,1,,,,,,
+Westenergie,Westenergie GmbH,1,,,,,,
 WirtuEn,Ausschuss für Wirtschaft und Energie,1,,,,,,
-CSU,CSU,,,,,,,
+Wodtke,Hannelore Wodtke,0,2,,1,5,2,BB
+WZB,Wissenschaftszentrum Berlin für Sozialforschung,1,,,,,,
+ZeissStftng,Carl Zeiss Stiftung,1,,,,,,
