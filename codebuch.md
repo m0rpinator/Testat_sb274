@@ -61,11 +61,11 @@ Funktion innerhalb der Kommission
 5 = Region 
 6 = Wissenschaft
 
-**position **
-Position in der Kohlekommission
-1 = Vorsitz
-2 = Mitglied
-3 = kein Stimmrecht
+**position**
+Position in der Kohlekommission,
+1 = Vorsitz,
+2 = Mitglied,
+3 = kein Stimmrecht,
 
 **State**
 Bundesländer 
