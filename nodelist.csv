@@ -6,10 +6,10 @@ Allmendinger,Jutta Allmendinger,0,2,5,2,6,2,BE
 Bahn,Deutsche Bahn AG,1,99,99,99,99,99,99
 BDEW,Bundesverbands der Energie- und Wasserwirtschaft,1,99,99,99,99,99,99
 BDI,Bundesverbands der Deutschen Industrie ,1,99,99,99,99,99,99
-BDV,Deutschen Arbeitgeberverbände,1,99,99,99,99,99,99
-BfA,Bundesagentur für Arbeit,1,99,99,99,99,99,99
+BDV,Deutschen Arbeitgeberverbaende,1,99,99,99,99,99,99
+BfA,Bundesagentur fuer Arbeit,1,99,99,99,99,99,99
 BfB,Buirer fuer Buir,1,99,99,99,99,99,NW
-BUND,Bund für Umwelt und Naturschutz Deutschland,1,99,99,1,99,99,99
+BUND,Bund fuer Umwelt und Naturschutz Deutschland,1,99,99,1,99,99,99
 CDU,CDU,1,99,99,1,99,99,BY
 CSU,CSU,1,99,99,99,99,99,99
 DBU,Deutsche Bundesstiftung Umwelt,1,99,99,99,99,99,99
@@ -24,21 +24,21 @@ FDP,FDP,1,99,99,5,99,99,99
 Frauenhofer,Frauenhofer Gesellschaft,1,99,99,99,99,99,99
 Greenpeace,Greenpeace,1,99,99,99,99,99,99
 Grothus,Antje Grothus,0,2,4,99,5,2,NW
-Grüne,Bündnis 90 Die Grünen,1,99,99,99,99,99,99
+Gruene,Buendnis 90 Die Gruenen,1,99,99,99,99,99,99
 Hasselfeldt,Gerda Hasselfeldt,0,2,6,1,99,2,BY
 Herntier,Christine Herntier,0,2,5,99,5,2,BB
-HTW,Hochschule für Technik und Wirtschaft,1,99,99,99,99,99,99
+HTW,Hochschule fuer Technik und Wirtschaft,1,99,99,99,99,99,99
 HumboldUni,Berliner Humboldt Universität,1,99,99,99,99,99,99
-IAB,Institut für Arbeitsmarkt- und Berufsforschung,1,99,99,99,99,99,99
+IAB,Institut fuer Arbeitsmarkt- und Berufsforschung,1,99,99,99,99,99,99
 IPCC,Weltklimarat,1,99,99,99,99,99,99
 KAD,Klima-Allianz Deutschland,1,99,99,99,99,99,BE
 Kaiser,Martin Kaiser,0,1,4,99,4,2,99
 Kampeter,Steffen Kampeter,0,1,4,1,2,2,NW
 Kapferer,Stefan Kapferer,0,1,4,5,2,2,BW
 Kempf,Dieter Kempf,0,1,5,99,2,2,BY
-Kohlekommission,"Kommission für Wachstum, Strukturwandel und Beschäftigung",1,99,99,99,99,99,99
+Kohlekommission,"Kommission füer Wachstum, Strukturwandel und Beschaeftigung",1,99,99,99,99,99,99
 Kreuzberg,Michael Kreuzberg,0,1,5,1,5,2,NW
-Laemmel,Andreas Lämmel,0,1,5,1,1,3,SA
+Laemmel,Andreas Laemmel,0,1,5,1,1,3,SA
 LEENRW,Landesverband Erneuerbare Energien NRW ,1,99,99,99,99,99,99
 Lenz,Andreas Lenz,0,1,2,1,1,3,BY
 Matthes,Felix Matthes,0,1,4,99,6,2,99
@@ -51,15 +51,15 @@ Oeko,Oeko Institut,1,99,99,99,99,99,99
 PKM,Parlamentskreises Mittelstand,1,99,99,99,99,99,99
 Platzeck,Matthias Platzeck,0,1,5,2,1,1,BB
 Pofalla,Ronald Pofalla,0,1,5,1,2,1,NW
-PotsdamKlima,Potsdam Institut für Klimafolgenforschung,1,99,99,99,99,99,BB
+PotsdamKlima,Potsdam Institut fuer Klimafolgenforschung,1,99,99,99,99,99,BB
 Praetorius,Barbara Praetorius,0,2,4,99,6,1,BE
 Priggen,Reiner Priggen,0,1,5,3,5,2,NW
 RatNachhaltig,Rat für Nachhaltige Entwicklung der Bundesregierung,1,99,99,99,99,99,99
 Reiche,Katherina Reiche,0,2,3,1,2,2,BB
-Roestel,Gunda Röstel,0,2,4,3,2,2,SA
+Roestel,Gunda Roestel,0,2,4,3,2,2,SA
 Schellnhuber,Hans Joachim Schellnhuber,0,1,5,99,6,2,BY
 Schweitzer,Eric Schweitzer,0,1,4,5,2,2,
-SD,Stadtentwässerung Dresden ,1,99,99,99,99,99,99
+SD,Stadtentwaesserung Dresden ,1,99,99,99,99,99,99
 SPD,SPD,1,99,99,2,99,99,99
 SpringerFStftng,Friede Springer Stiftung,1,99,99,99,99,99,99
 Telekom,Deutsche Telekom,1,99,99,99,99,99,99
@@ -68,9 +68,9 @@ UniKiel,Uni Kiel,1,99,99,99,99,99,99
 VKU,Verband Kommunaler Unternehmen,1,99,99,99,99,99,99
 Wehrspohn,Ralf Wehrspohn,0,1,3,99,6,2,99
 Weiger,Hubert Weiger,0,1,6,99,4,2,BY
-Welzow,Allianz für Welzow,1,99,99,99,99,99,99
+Welzow,Allianz fuer Welzow,1,99,99,99,99,99,99
 Westenergie,Westenergie GmbH,1,99,99,99,99,99,99
-WirtuEn,Ausschuss für Wirtschaft und Energie,1,99,99,99,99,99,99
+WirtuEn,Ausschuss fuer Wirtschaft und Energie,1,99,99,99,99,99,99
 Wodtke,Hannelore Wodtke,0,2,99,1,5,2,BB
-WZB,Wissenschaftszentrum Berlin für Sozialforschung,1,99,99,99,99,99,99
+WZB,Wissenschaftszentrum Berlin fuer Sozialforschung,1,99,99,99,99,99,99
 ZeissStftng,Carl Zeiss Stiftung,1,99,99,99,99,99,99
