@@ -23,10 +23,10 @@ EnBW,EnBW,1,99,99,99,99,99,99
 FDP,FDP,1,99,99,5,99,99,99
 Frauenhofer,Frauenhofer Gesellschaft,1,99,99,99,99,99,99
 Greenpeace,Greenpeace,1,99,99,99,99,99,99
-Grothus,Antje Grothus,0,2,4,,5,2,NW
+Grothus,Antje Grothus,0,2,4,99,5,2,NW
 Grüne,Bündnis 90 Die Grünen,1,99,99,99,99,99,99
 Hasselfeldt,Gerda Hasselfeldt,0,2,6,1,99,2,BY
-Herntier,Christine Herntier,0,2,5,,5,2,BB
+Herntier,Christine Herntier,0,2,5,99,5,2,BB
 HTW,Hochschule für Technik und Wirtschaft,1,99,99,99,99,99,99
 HumboldUni,Berliner Humboldt Universität,1,99,99,99,99,99,99
 IAB,Institut für Arbeitsmarkt- und Berufsforschung,1,99,99,99,99,99,99
@@ -52,12 +52,12 @@ PKM,Parlamentskreises Mittelstand,1,99,99,99,99,99,99
 Platzeck,Matthias Platzeck,0,1,5,2,1,1,BB
 Pofalla,Ronald Pofalla,0,1,5,1,2,1,NW
 PotsdamKlima,Potsdam Institut für Klimafolgenforschung,1,99,99,99,99,99,BB
-Praetorius,Barbara Praetorius,0,2,4,,6,1,BE
+Praetorius,Barbara Praetorius,0,2,4,99,6,1,BE
 Priggen,Reiner Priggen,0,1,5,3,5,2,NW
 RatNachhaltig,Rat für Nachhaltige Entwicklung der Bundesregierung,1,99,99,99,99,99,99
 Reiche,Katherina Reiche,0,2,3,1,2,2,BB
 Roestel,Gunda Röstel,0,2,4,3,2,2,SA
-Schellnhuber,Hans Joachim Schellnhuber,0,1,5,,6,2,BY
+Schellnhuber,Hans Joachim Schellnhuber,0,1,5,99,6,2,BY
 Schweitzer,Eric Schweitzer,0,1,4,5,2,2,
 SD,Stadtentwässerung Dresden ,1,99,99,99,99,99,99
 SPD,SPD,1,99,99,2,99,99,99
